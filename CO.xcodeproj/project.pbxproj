@@ -16,6 +16,7 @@
 		4BB6CEAB2913970D00766F1C /* FeedbackCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6CEAA2913970D00766F1C /* FeedbackCell.swift */; };
 		4BB6CEAD29139AAC00766F1C /* FeedbackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6CEAC29139AAC00766F1C /* FeedbackViewController.swift */; };
 		4BB6CEAF29139C5900766F1C /* FeedbackQuestionListDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6CEAE29139C5800766F1C /* FeedbackQuestionListDataModel.swift */; };
+		708EFB662925058500732A1B /* MyTeamLeaveModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 708EFB652925058400732A1B /* MyTeamLeaveModel.swift */; };
 		8E2C1024CA5B824C04620C69 /* Pods_CO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 554B0D1FD411986D6464B809 /* Pods_CO.framework */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		4BB6CEAE29139C5800766F1C /* FeedbackQuestionListDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackQuestionListDataModel.swift; sourceTree = "<group>"; };
 		554B0D1FD411986D6464B809 /* Pods_CO.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CO.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E327298FE94713DFF0196EB /* Pods-CO.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CO.debug.xcconfig"; path = "Target Support Files/Pods-CO/Pods-CO.debug.xcconfig"; sourceTree = "<group>"; };
+		708EFB652925058400732A1B /* MyTeamLeaveModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTeamLeaveModel.swift; sourceTree = "<group>"; };
 		C199BF5FFD43BCDB42653362 /* Pods-CO.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CO.release.xcconfig"; path = "Target Support Files/Pods-CO/Pods-CO.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,6 +75,7 @@
 				4BB6CE9829138EFF00766F1C /* SceneDelegate.swift */,
 				4BB6CE9A29138EFF00766F1C /* ViewController.swift */,
 				4BB6CE9C29138EFF00766F1C /* Main.storyboard */,
+				708EFB652925058400732A1B /* MyTeamLeaveModel.swift */,
 				4BB6CEAE29139C5800766F1C /* FeedbackQuestionListDataModel.swift */,
 				4BB6CEAC29139AAC00766F1C /* FeedbackViewController.swift */,
 				4BB6CEAA2913970D00766F1C /* FeedbackCell.swift */,
@@ -221,6 +224,7 @@
 				4BB6CEAB2913970D00766F1C /* FeedbackCell.swift in Sources */,
 				4BB6CEAD29139AAC00766F1C /* FeedbackViewController.swift in Sources */,
 				4BB6CE9929138EFF00766F1C /* SceneDelegate.swift in Sources */,
+				708EFB662925058500732A1B /* MyTeamLeaveModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
